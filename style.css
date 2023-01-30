@@ -16,6 +16,10 @@ nav {
   width: 100%;
 }
 
+.contact-info {
+  font-size: 1.2rem;
+}
+
 .contact-info, .nav-boxes, h3 {
   color:rgb(6, 87, 61);
 }
@@ -24,6 +28,17 @@ nav {
   display: flex;
   flex-direction: column;
   align-items: center;
+  font-size: 1.5rem;
+}
+
+#course {
+  margin: .7rem 0rem;
+  font-size: 1.5rem;
+}
+
+#date {
+  font-size: 2rem;
+  margin: 7rem 0rem 1.5rem 0rem;
 }
 
 #main-section {
@@ -32,3 +47,8 @@ nav {
   align-items: center;
 }
 
+#title {
+  font-size: 3rem;
+  margin: 2rem 0rem 1rem 0rem;
+  text-align: center;
+}
