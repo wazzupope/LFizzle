@@ -57,6 +57,10 @@ nav {
   align-items: center;
 }
 
+#rules-div {
+  margin-top: 2rem;
+}
+
 #title {
   font-size: 3rem;
   font-family: 'Cinzel', 'Times New Roman', Times, serif;
