@@ -1,5 +1,5 @@
 @font-face {
-  font-family: 'Cinzel';
+  font-family: "Cinzel";
   src: url("../assets/Cinzel/static/Cinzel-Medium.ttf") format("truetype");
 }
 
@@ -13,8 +13,9 @@ body {
   flex-direction: column;
   align-items: center;
   color: white;
-  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(../assets/elk-ridge.JPG);
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
+    url(../assets/elk-ridge.JPG);
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -42,7 +43,7 @@ nav {
 }
 
 #course {
-  margin: .7rem 0rem;
+  margin: 0.7rem 0rem;
   font-size: 1.5rem;
 }
 
@@ -63,7 +64,7 @@ nav {
 
 #title {
   font-size: 3rem;
-  font-family: 'Cinzel', 'Times New Roman', Times, serif;
+  font-family: "Cinzel", "Times New Roman", Times, serif;
   margin: 2rem 0rem 1rem 0rem;
   text-align: center;
 }

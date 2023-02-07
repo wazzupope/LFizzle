@@ -1,0 +1,27 @@
+{
+  "name": "lfizzle",
+  "version": "1.0.0",
+  "description": "Website created for the LFizzle Invitational Annual Golf Tournament",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wazzupope/lfizzle.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wazzupope/lfizzle/issues"
+  },
+  "homepage": "https://github.com/wazzupope/lfizzle#readme",
+  "devDependencies": {
+    "eslint": "^8.33.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-config-prettier": "^8.6.0",
+    "eslint-plugin-import": "^2.27.5",
+    "prettier": "2.8.3"
+  }
+}
